@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.pfl">
+    package="com.pagekeysolutions.pfl">
    <application
         android:label="pfl"
         android:name="${applicationName}"

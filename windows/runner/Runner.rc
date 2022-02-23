@@ -89,11 +89,11 @@ BEGIN
     BEGIN
         BLOCK "040904e4"
         BEGIN
-            VALUE "CompanyName", "com.example" "\0"
+            VALUE "CompanyName", "com.pagekeysolutions" "\0"
             VALUE "FileDescription", "pfl" "\0"
             VALUE "FileVersion", VERSION_AS_STRING "\0"
             VALUE "InternalName", "pfl" "\0"
-            VALUE "LegalCopyright", "Copyright (C) 2022 com.example. All rights reserved." "\0"
+            VALUE "LegalCopyright", "Copyright (C) 2022 PageKey Solutions LLC. All rights reserved." "\0"
             VALUE "OriginalFilename", "pfl.exe" "\0"
             VALUE "ProductName", "pfl" "\0"
             VALUE "ProductVersion", VERSION_AS_STRING "\0"
