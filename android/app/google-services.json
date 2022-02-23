@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "885442380744",
+    "project_id": "plaintext-for-life",
+    "storage_bucket": "plaintext-for-life.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:885442380744:android:c47f953ef72922b266b6fd",
+        "android_client_info": {
+          "package_name": "com.pagekeysolutions.pfl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "885442380744-cu0ug7ge0j7rhjjr1vb35von6hb20oeu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pagekeysolutions.pfl",
+            "certificate_hash": "572ec318c684fac7f8bf3b64b38205a32e8ac2ac"
+          }
+        },
+        {
+          "client_id": "885442380744-aciae58drg58kjcem9s9qrc9d4ndikr2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAl0UQAD7IMWPJTbky88ajzs8lUOGmKvng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "885442380744-aciae58drg58kjcem9s9qrc9d4ndikr2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
